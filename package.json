@@ -1,6 +1,6 @@
 {
   "name": "mandiri-scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modul ini untuk mendapatkan informasi saldo dan mutasi hari ini bank mandiri",
   "main": "index.js",
   "scripts": {
