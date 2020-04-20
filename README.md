@@ -36,7 +36,7 @@ mandiri
 ### Cek Mutasi Pada Hari Itu
 
 ```javascript
-bca
+mandiri
   .getMutasi(USERNAME, PASSWORD)
   .then(res => {
     console.log('mutasi ', res);
